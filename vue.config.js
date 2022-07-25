@@ -15,7 +15,7 @@ module.exports = {
   transpileDependencies: [
     'vuetify'
   ],
-  publicPath: isProd ? '/リポジトリ名' : '/',
+  publicPath: isProd ? '/admap' : '/',
   outputDir: 'docs',
   filenameHashing: false,
   productionSourceMap: false
